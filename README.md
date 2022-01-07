@@ -2,11 +2,8 @@
 Hi, I am Het Shah, currently pursuing Bachelors in Technology in Computer Science and Engineering from the Institute Of Technology, Nirma University.I'm  enthisiastic about anything that piques my interests, its a vast and diverse field & I'm excited about exploring it. 
 PS:- I enjoy learning new things.
 <br>
-<br>
-⚡ Fun fact: You can also find me on google, just type "hetshah1101"
-<br>
 
-Click here to download [Resume](https://drive.google.com/file/d/1LA31DWmxCLeozwzK2vcjDqhC6ZZrp4bt/view?usp=sharing)
+Click here to download [Resume](https://docs.google.com/document/d/1YfeQzdOivUDgZcm_1WpVJOozJz8si3sm-qfJll6hjUQ/edit?usp=sharing)
 <h2>Languages and Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px"> </h2>
 <a>
   <img align="left" title="Python" alt="Python Logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
