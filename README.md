@@ -51,7 +51,7 @@ Click here to view my [Resume](https://docs.google.com/document/d/1YfeQzdOivUDgZ
 ![Het's github stats](https://github-readme-stats.vercel.app/api?username=hetshah1101&show_icons=true&hide_border=true)
 <br>
 
-![](https://komarev.com/ghpvc/?username=jayyymin18&color=blue)
+![](https://komarev.com/ghpvc/?username=hetshah1101&color=blue)
 ![](https://visitor-badge.glitch.me/badge?page_id=hetshah1101.hetshah1101)
 <br>
 
