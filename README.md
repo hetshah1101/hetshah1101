@@ -1,6 +1,6 @@
 <h2>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-Hi, I'm **Het Shah** — a backend-focused developer, system thinker, and AI enthusiast. I’m currently working as a Business Technology Solutions Associate at ZS Associates, where I design and automate scalable data solutions for large-scale pharmaceutical clients.
+Hi, I'm **Het Shah** — a backend-focused developer, system thinker, and AI enthusiast. I’m currently working at ZS Associates, where I design and automate scalable data solutions for large-scale pharmaceutical clients.
 
 I specialize in building structured backend architectures, automation pipelines, and developer-friendly systems that are elegant under the hood and invisible when done right.
 
